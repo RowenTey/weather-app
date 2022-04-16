@@ -1,2 +1,2 @@
 # weather-app
-Project for me to practice JAvascript/API.
+Project for me to practice Javascript/API.
